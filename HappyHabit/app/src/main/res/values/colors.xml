@@ -1,0 +1,22 @@
+<resources>
+    <!-- 60% Primary Color -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Green -->
+
+    <!-- 30% Secondary Color -->
+    <color name="colorSecondary">#FF9800</color> <!-- Orange -->
+
+    <!-- 10% Accent Color -->
+    <color name="colorAccent">#E91E63</color> <!-- Pink -->
+
+    <!-- Darker variant of Primary Color -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Dark Green -->
+
+    <!-- Text Color -->
+    <color name="textColorPrimary">#212121</color> <!-- Dark Gray -->
+
+    <!-- Background Color -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light Gray -->
+
+    <!-- Button Color -->
+    <color name="buttonColor">#FF5722</color> <!-- Deep Orange -->
+</resources>
